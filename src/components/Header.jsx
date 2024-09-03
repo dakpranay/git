@@ -19,7 +19,7 @@ export default function Header({ handleAddClick }) {
         </Link>
       </div>
       <button
-        className="bg-custom-green py-2 px-5 mt-4 md:mt-0"
+        className="bg-custom-blue py-2 px-5 mt-4 md:mt-0"
         onClick={handleAddClick}
       >
         ADD
